@@ -1,6 +1,28 @@
-body{
+*{
     font-family: Verdana,"Times New Roman",sans-serif;
     background-color: aquamarine;
     color: black;
-    font-size: bold;
+}
+ima{
+    height: auto;
+    width: 250px;
+}
+h1,
+h2{
+    color:red;
+    text-align: center;
+}
+
+li{
+    color: brown;
+}
+
+li#first{
+    color: orange;
+}
+ul li{
+    color: blue;
+}
+.index{
+    text-align: center;
 }
